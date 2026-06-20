@@ -1,0 +1,7 @@
+# Pattern: Find largest value
+
+largest = float('-inf')
+
+for num in nums:
+    if num > largest:
+        largest = num

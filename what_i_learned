@@ -1,0 +1,5 @@
+Today learned:
+- float('-inf') → useful for max problems
+- enumerate() → index + value together
+- zip() → combine lists
+- list.copy() → avoid changing original list
