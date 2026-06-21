@@ -1,0 +1,8 @@
+# Mistake:
+largest = ""
+
+# Why it failed:
+Comparing numbers with strings causes issues.
+
+# Fixed:
+largest = float('-inf')
