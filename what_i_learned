@@ -3,3 +3,7 @@ Today learned:
 - enumerate() → index + value together
 - zip() → combine lists
 - list.copy() → avoid changing original list
+
+Day_18
+learnt generator function 
+practiced a few programs about it 
